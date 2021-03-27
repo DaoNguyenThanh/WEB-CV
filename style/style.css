@@ -1,0 +1,67 @@
+body, head{
+    margin: 0px;
+}
+.trai 
+{   
+    height: 100%;
+    width: 20%;
+    background-color: #FFFFC7;
+}
+.bocanh
+{   position: fixed;
+    display: flex;
+    justify-content: center;
+}
+.anh
+{   width: 200px;   
+    height: 200px;
+    margin-top: 30%;
+    border: rgb(129, 127, 255);
+    border-radius: 100px 100px; 
+    background-color: #FFE98A;
+    overflow: hidden;
+}
+.anh img{
+    margin-left: 0%;
+    height: 100%;
+    width: 100%;
+}
+ul
+{   margin-top: 20%;
+    padding-bottom: 15%;
+    padding-left: 3%;
+    padding-right: 2%;
+}
+
+.menu ul li{
+    
+    padding-top: 10px;
+    transition: 0.4s;
+    list-style: none;
+    text-align: center;
+    background-color: #A890FE;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+    border-radius: 30px 70px 70px 30px;
+
+}
+a{ 
+    text-decoration: none;
+    color: black;
+}
+.download
+{
+    margin-top: 15%;
+}
+
+.DL
+{
+    text-decoration: none ;
+}
+
+.phai
+{
+    height: 100%;
+    width: 80%;
+    float: right;
+}
