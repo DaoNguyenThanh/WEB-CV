@@ -1,0 +1,72 @@
+body, head{
+    margin: 0px;
+}
+.trai 
+{   
+    height: 100%;
+    width: 20%;
+    background-color: #FFFFC7;
+    position: fixed;
+}
+.bocanh
+{   
+    display: flex;
+    justify-content: center;
+}
+.anh
+{   width: 130px;   
+    height:130px;
+    margin-top: 5%;
+    border: rgb(129, 127, 255);
+    border-radius: 100px 100px; 
+    background-color: #FFE98A;
+    overflow: hidden;
+}
+.anh img{
+    margin-left: 0%;
+    height: 100%;
+    width: 100%;
+}
+ul
+{   margin-top: 10%;
+    padding-bottom: 15%;
+    padding-left: 3%;
+    padding-right: 2%;
+}
+
+.menu ul li{
+    padding-top: 10px;
+    transition: 0.4s;
+    list-style: none;
+    text-align: center;
+    background-color: #A890FE;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+    border-radius: 15px 40px 40px 15px;
+    font-size: 10px;
+
+}
+b{
+    font-size:10px ;
+}
+a{ 
+    text-decoration: none;
+    color: black;
+    font-size:10px; 
+}
+.download
+{
+    margin-top: 10%;
+}
+
+.DL
+{
+    text-decoration: none ;
+}
+
+.phai
+{
+    height:100%;
+    width:79%;
+    float: right;
+}
